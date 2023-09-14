@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <main className='md:flex max-w-6xl mx-auto my-4'>
+      <main className='md:flex gap-5 max-w-6xl mx-auto my-4'>
       <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
       <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </main>
