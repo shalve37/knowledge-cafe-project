@@ -4,7 +4,7 @@
         "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
         "title": "The Quantum Secrets of Time Travel",
         "author_name": "Dr. Cassandra Evergreen",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
+        "author_image": "",
         "posted_date": "September 13, 2023",
         "minutes_to_read": "10",
         "hashtags": ["#TimeTravel", "#QuantumPhysics", "#ScienceFiction", "#Exploration"]
@@ -14,7 +14,7 @@
         "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
         "title": "The Art of Sustainable Living",
         "author_name": "Eco Warrior",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
+        "author_image": "",
         "posted_date": "September 12, 2023",
         "minutes_to_read": "8",
         "hashtags": ["#Sustainability", "#GreenLiving", "#Environmentalism"]
@@ -24,7 +24,7 @@
         "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
         "title": "Cooking Adventures: Exploring International Cuisines",
         "author_name": "Chef Gourmet",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
+        "author_image": "",
         "posted_date": "September 11, 2023",
         "minutes_to_read": "12",
         "hashtags": ["#Cooking", "#Foodie", "#CulinaryAdventure"]
@@ -34,69 +34,10 @@
         "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
         "title": "The Marvels of Deep Sea Exploration",
         "author_name": "Ocean Explorer",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
+        "author_image": "",
         "posted_date": "September 10, 2023",
         "minutes_to_read": "15",
         "hashtags": ["#DeepSea", "#Oceanography", "#Adventure"]
-    },
-    {
-        "id": 5,
-        "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
-        "title": "Innovation in Technology: A Glimpse into the Future",
-        "author_name": "Tech Visionary",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
-        "posted_date": "September 9, 2023",
-        "minutes_to_read": "9",
-        "hashtags": ["#Technology", "#Innovation", "#FutureTech"]
-    },
-    {
-        "id": 6,
-        "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
-        "title": "Exploring the Mysteries of Ancient Civilizations",
-        "author_name": "Archaeologist Extraordinaire",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
-        "posted_date": "September 8, 2023",
-        "minutes_to_read": "11",
-        "hashtags": ["#Archaeology", "#History", "#AncientCivilizations"]
-    },
-    {
-        "id": 7,
-        "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
-        "title": "Healthy Lifestyle Hacks for a Better You",
-        "author_name": "Wellness Guru",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
-        "posted_date": "September 7, 2023",
-        "minutes_to_read": "7",
-        "hashtags": ["#Wellness", "#HealthyLiving", "#SelfCare"]
-    },
-    {
-        "id": 8,
-        "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
-        "title": "The Art of Mindful Photography",
-        "author_name": "Shutterbug Zen",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
-        "posted_date": "September 6, 2023",
-        "minutes_to_read": "10",
-        "hashtags": ["#Photography", "#Mindfulness", "#Creativity"]
-    },
-    {
-        "id": 9,
-        "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
-        "title": "Unveiling the Wonders of Space Exploration",
-        "author_name": "Astro Explorer",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
-        "posted_date": "September 5, 2023",
-        "minutes_to_read": "14",
-        "hashtags": ["#SpaceExploration", "#Astronomy", "#Cosmos"]
-    },
-    {
-        "id": 10,
-        "cover_image": "https://i.ibb.co/9T4rFW2/aerial-view-businessman-using-computer-laptop.jpg",
-        "title": "The Creative World of DIY Craftsmanship",
-        "author_name": "Crafty Artisan",
-        "author_image": "https://i.ibb.co/QpdPcxG/portrait-young-man-while-studying-books.jpg",
-        "posted_date": "September 4, 2023",
-        "minutes_to_read": "8",
-        "hashtags": ["#DIYCrafts", "#Creativity", "#Handmade"]
     }
+    
 ]
