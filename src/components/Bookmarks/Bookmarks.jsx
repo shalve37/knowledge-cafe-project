@@ -1,7 +1,7 @@
-const Bookmarks = () => {
+const Bookmarks = ({bookmarks}) => {
     return (
         <div>
-            <h2>Bookmark Blogs</h2>
+            <h2>Bookmark length:{bookmarks.length}</h2>
         </div>
     );
 };
